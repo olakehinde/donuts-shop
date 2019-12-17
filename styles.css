@@ -3,6 +3,10 @@
 	padding: 0px;
 }
 
+body {
+	font-family: 'Vesper Libre', serif;
+}
+
 header {
 	height: 100vh;
 	width: 100vw;
@@ -46,4 +50,11 @@ nav ul li a:hover {
 	font-size: 120px;
 	text-transform: uppercase;
 	margin: 50px 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.second-strapline {
+	color: #FFFFDD;
+	font-size: 25px;
+	font-style: italic;
 }
