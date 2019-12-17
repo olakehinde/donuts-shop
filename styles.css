@@ -58,3 +58,17 @@ nav ul li a:hover {
 	font-size: 25px;
 	font-style: italic;
 }
+
+.section-title {
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(207, 19, 107);
+	margin-bottom: 25px;
+	font-size: 240%;
+	font-family: 'Poppins', sans-serif;
+}
+
+.about-section {
+	width: 100vw;
+	height: 90vh;
+}
