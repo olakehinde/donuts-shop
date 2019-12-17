@@ -5,6 +5,7 @@
 
 body {
 	font-family: 'Vesper Libre', serif;
+	color: rgb(207, 19, 107);
 }
 
 header {
@@ -62,7 +63,6 @@ nav ul li a:hover {
 .section-title {
 	text-align: center;
 	text-transform: uppercase;
-	color: rgb(207, 19, 107);
 	margin-bottom: 25px;
 	font-size: 240%;
 	font-family: 'Poppins', sans-serif;
@@ -72,3 +72,23 @@ nav ul li a:hover {
 	width: 100vw;
 	height: 90vh;
 }
+
+.about-container {
+	width: 85%;
+	margin: 0px auto;
+	display: flex;
+	flex-direction: row;
+}
+
+.about-container-left {
+	width: 45%;
+	text-align: justify;
+	line-height: 220%;
+	font-weight: bold;
+	letter-spacing: 0.8px;
+ }
+
+ .about-container-right {
+	width: 40%;
+	margin-left: 6%;
+ }
