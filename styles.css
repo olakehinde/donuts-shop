@@ -29,3 +29,21 @@ nav ul li a {
 nav ul li a:hover {
 	text-decoration: underline;
 }
+
+.strapline-container {
+	width: 90%;
+	height: 85%;
+	border: 2px solid blue;
+	margin: auto auto;
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	background-image: url('./images/baked-donuts.jpg'); 
+}
+
+.main-strapline {
+	color: rgb(207, 19, 107);
+	font-size: 120px;
+	text-transform: uppercase;
+	margin: 50px 0px;
+}
